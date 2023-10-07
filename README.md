@@ -44,7 +44,7 @@ I'm Mohammed Al-shayb, a passionate full-stack developer with a love for creatin
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![NPM](https://img.shields.io/badge/-Npm-05122A?style=flat&logo=npm)&nbsp;
+![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
 ![React js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=nodedotjs)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
@@ -62,6 +62,6 @@ I'm Mohammed Al-shayb, a passionate full-stack developer with a love for creatin
 
 <a href="https://www.linkedin.com/in/mohamed-elshayb-552a50210" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <be>
-📚 I'm a firm believer in knowledge sharing, and you can find some of my coding adventures on my <a href="https://mohamed-eg.github.io/ashrafalshayb" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=Blogger&logoColor=white"/></a>, where I share insights, tutorials, and tips related to web development.
+📚 I'm a firm believer in knowledge sharing, and you can find some of my coding adventures on my portfolio <a href="https://mohamed-eg.github.io/ashrafalshayb" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=Answer&logoColor=white"/></a>, where I share insights, tutorials, and tips related to web development.
 
 Let's build something incredible together! 🚀
