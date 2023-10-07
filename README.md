@@ -37,7 +37,8 @@
 ![React js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=nodedotjs)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![mongodb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Mongodb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Nextdotjs](https://img.shields.io/badge/-Nextdotjs-05122A?style=flat&logo=nextdotjs)&nbsp;
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanemNaga&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
