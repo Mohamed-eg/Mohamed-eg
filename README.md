@@ -56,11 +56,15 @@ I'm Mohammed Al-shayb, a passionate full-stack developer with a love for creatin
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-eg&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
+<br>
+<br>
 
 <a href="https://komarev.com/ghpvc/?username=Mohamed-eg&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Mohamed-eg&style=for-the-badge">
 </a>
 
+<br>
+<br>
 <br>
   
 📚 I'm a firm believer in knowledge sharing, and you can find some of my coding adventures on my portfolio <a href="https://mohamed-eg.github.io/ashrafalshayb" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=Answer&logoColor=white"/></a>, where I share insights, tutorials, and tips related to web development.
