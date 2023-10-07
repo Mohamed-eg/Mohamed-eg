@@ -18,11 +18,11 @@
 
 ### Connect with Me :
 
-<a href="[https://www.linkedin.com/in/mohamed-elshayb-552a50210/](https://www.linkedin.com/in/mohamed-elshayb-552a50210/)" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamed-elshayb-552a50210/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-<a href="[https://www.linkedin.com/in/mohamed-elshayb-552a50210/](https://www.linkedin.com/in/mohamed-elshayb-552a50210/)" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/mohammed_a_alshayb/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<a href="[https://www.linkedin.com/in/mohamed-elshayb-552a50210/](https://www.linkedin.com/in/mohamed-elshayb-552a50210/)" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/mohamed.elshayb.184/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -48,6 +48,6 @@
 </a>
 
 ### Connect with Me :
-
-<a href="https://www.linkedin.com/in/Mohammed-mohamed2023/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+https://www.linkedin.com/in/mohamed-elshayb-552a50210/
+<a href="https://www.linkedin.com/in/mohamed-elshayb-552a50210" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <br>
