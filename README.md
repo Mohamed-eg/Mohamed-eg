@@ -1,7 +1,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Mohammed Al-shayb's Profile!
+  Welcome to Mohammed Al-shayb's Profile! 👨‍💻
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -10,11 +10,21 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Always%20Doing%20Hard%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-- 🏢 I'm a Software Engineer
-- 👨‍💻 As a seasoned software engineer, I'm continuously honing my skills and staying up-to-date with the latest advancements in technology.
-- 💬 Feel free to discuss topics related to JavaScript, React js or any aspect of web development,
-  and I'll be happy to engage in insightful conversations or provide assistance based on my experience in the field.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+# Hi there! 👋
+
+I'm Mohammed Al-shayb, a passionate full-stack developer with a love for creating robust web applications and turning ideas into reality. With a strong foundation in React.js, Node.js, Express.js, and MongoDB, I thrive in the ever-evolving world of web development.
+
+## About Me
+
+🚀 I specialize in building dynamic and responsive web interfaces using React.js, creating seamless user experiences that leave a lasting impression.
+
+💡 My expertise extends to the backend as well, where I harness the power of Node.js and Express.js to design scalable APIs and server-side logic that keeps applications running smoothly.
+
+📦 When it comes to data management, MongoDB is my go-to database solution. I excel at crafting efficient database schemas and ensuring data integrity.
+
+🌟 I am dedicated to staying up-to-date with the latest trends and best practices in the tech world, constantly enhancing my skills to deliver cutting-edge solutions.
+
+🤝 Collaboration is at the heart of my work. I enjoy working in teams, leveraging my strong communication skills to bring projects to successful completion.
 
 ### Connect with Me :
 
@@ -34,6 +44,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![NPM](https://img.shields.io/badge/-Npm-05122A?style=flat&logo=npm)&nbsp;
 ![React js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=nodedotjs)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
@@ -50,4 +61,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/mohamed-elshayb-552a50210" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<br>
+<be>
+📚 I'm a firm believer in knowledge sharing, and you can find some of my coding adventures on my <a href="https://mohamed-eg.github.io/ashrafalshayb" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=Blogger&logoColor=white"/></a>, where I share insights, tutorials, and tips related to web development.
+
+Let's build something incredible together! 🚀
