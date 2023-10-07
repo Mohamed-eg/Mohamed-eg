@@ -60,7 +60,6 @@ I'm Mohammed Al-shayb, a passionate full-stack developer with a love for creatin
 <br>
 <br>
 <br>
-<br>
 <a href="https://komarev.com/ghpvc/?username=Mohamed-eg&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Mohamed-eg&style=for-the-badge">
 </a>
