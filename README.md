@@ -26,14 +26,6 @@ I'm Mohammed Al-shayb, a passionate full-stack developer with a love for creatin
 
 🤝 Collaboration is at the heart of my work. I enjoy working in teams, leveraging my strong communication skills to bring projects to successful completion.
 
-### Connect with Me :
-
-<a href="https://www.linkedin.com/in/mohamed-elshayb-552a50210/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
-<a href="https://www.instagram.com/mohammed_a_alshayb/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-<a href="https://www.facebook.com/mohamed.elshayb.184/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -52,15 +44,22 @@ I'm Mohammed Al-shayb, a passionate full-stack developer with a love for creatin
 ![Nextjs](https://img.shields.io/badge/-Nextdotjs-05122A?style=flat&logo=nextdotjs)&nbsp;
 
 
+
+### Connect with Me :
+
+<a href="https://www.linkedin.com/in/mohamed-elshayb-552a50210/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
+<a href="https://www.instagram.com/mohammed_a_alshayb/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<a href="https://www.facebook.com/mohamed.elshayb.184/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-eg&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=Mohamed-eg&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Mohamed-eg&style=for-the-badge">
 </a>
 
-### Connect with Me :
-
-<a href="https://www.linkedin.com/in/mohamed-elshayb-552a50210" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <be>
 📚 I'm a firm believer in knowledge sharing, and you can find some of my coding adventures on my portfolio <a href="https://mohamed-eg.github.io/ashrafalshayb" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Al%20Shayb-0077B5?style=for-the-badge&logo=Answer&logoColor=white"/></a>, where I share insights, tutorials, and tips related to web development.
 
